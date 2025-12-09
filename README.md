@@ -66,6 +66,5 @@ python3 solution.py < test_cases/1.in
 Run the brute-force solution:
 python3 solution_bf.py < test_cases/1.in
 
-
 Generate more tests:
 python3 generator.py
