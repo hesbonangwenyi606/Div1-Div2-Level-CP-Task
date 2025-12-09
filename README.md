@@ -62,12 +62,8 @@ solution.md explains the logic behind the answer
  
  ###  Running Things
 Run the main solution:
-
 python3 solution.py < test_cases/1.in
-
-
 Run the brute-force solution:
-
 python3 solution_bf.py < test_cases/1.in
 
 
