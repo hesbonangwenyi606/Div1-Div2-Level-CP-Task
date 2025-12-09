@@ -9,9 +9,7 @@ An optimal solution + an optional brute-force solution
 Test cases
 
 A test-case generator
-
 And three failed attempts from the Qwen AI model
-
 Notes explaining how the problem idea was developed
 
 Everything is organized in a simple folder structure so you can easily run, test, or modify the problem.
