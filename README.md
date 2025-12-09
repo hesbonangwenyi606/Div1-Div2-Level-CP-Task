@@ -1,4 +1,4 @@
-Welcome!
+
 This project contains everything needed for a full competitive-programming problem, similar to what you’d see on Codeforces.
 
 The goal is to provide:
@@ -8,7 +8,6 @@ A completely original, not-found-anywhere-else problem
 A clean problem statement
 
 An optimal solution + an optional brute-force solution
-
 Test cases
 
 A test-case generator
