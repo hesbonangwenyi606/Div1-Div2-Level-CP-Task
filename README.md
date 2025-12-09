@@ -5,7 +5,6 @@ The goal is to provide:
 A completely original, not-found-anywhere-else problem
 
 A clean problem statement
-
 An optimal solution + an optional brute-force solution
 Test cases
 
