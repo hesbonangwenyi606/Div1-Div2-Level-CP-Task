@@ -41,8 +41,7 @@ Everything is organized in a simple folder structure so you can easily run, test
 ├── requirements.json     # Time & memory limits
 └── README.md             # This file
 
-🧠 Purpose of This Project
-
+**Purpose Of The This Project**
 This project is designed for three main uses:
 
 1. Competitive Programming
