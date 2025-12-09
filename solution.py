@@ -1,17 +1,20 @@
-hesbonangwenyi@hesbonangwenyi-HP-ProBook-430-G5:~/Downloads/subsequence_weight_maximization$ for i in {1..5}; do     echo "Running test case $i:"                    # Prints which test case is running
-    python3 solution.py < test_cases/$i.in | diff - test_cases/$i.out         && echo "OK"         || echo "FAIL"; done
-Running test case 1:
-1c1
-< 9
----
-> 12
-FAIL
-Running test case 2:
-OK
-Running test case 3:
-OK
-Running test case 4:
-OK
-Running test case 5:
-OK
-hesbonangwenyi@hesbonangwenyi-HP-ProBook-430-G5:~/Downloads/subsequence_weight_maximization$ 
+import sys
+input = sys.stdin.readline
+
+n = int(input())
+a = list(map(int, input().split()))
+
+maxA = max(a) + 1
+freq = [0] * (maxA + 1)
+
+for x in a:
+    freq[x] += 1
+
+res = 0
+for g in range(1, maxA):
+    count = 0
+    for multiple in range(g, maxA, g):
+        count += freq[multiple]
+    res = max(res, count * g)
+
+print(res)
