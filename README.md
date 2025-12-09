@@ -57,9 +57,7 @@ Their code and run links are saved under qwen/.
 
 3. Learning & Reference
 If you want to learn how to design competitive programming problems,
-
 idea.md explains how the idea evolved
-
 solution.md explains the logic behind the answer
 
 🧪 Running Things
