@@ -19,7 +19,7 @@ Notes explaining how the problem idea was developed
 
 Everything is organized in a simple folder structure so you can easily run, test, or modify the problem.
 
-📁 What's Inside
+## t's Inside
 ├── qwen/                 # Where Qwen model tests are stored
 │   ├── conversations.md  # Links and notes from Qwen runs
 │   ├── run_01.py         # Qwen attempt #1 (fails)
