@@ -51,7 +51,6 @@ edge test cases
 and a brute-force checker
 
 2. AI Model Testing
-
 There are three attempts from the Qwen3 AI model.
 They are supposed to fail at least one test case each.
 Their code and run links are saved under qwen/.
