@@ -61,7 +61,6 @@ idea.md explains how the idea evolved
 solution.md explains the logic behind the answer
  
  ###  Running Things
-
 Run the main solution:
 
 python3 solution.py < test_cases/1.in
