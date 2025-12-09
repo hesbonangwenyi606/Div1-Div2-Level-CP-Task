@@ -45,7 +45,6 @@ Everything is organized in a simple folder structure so you can easily run, test
 This project is designed for three main uses:
 
 1. Competitive Programming
-
 You can treat this like a real Codeforces problem. It comes with:
 
 a full solution
