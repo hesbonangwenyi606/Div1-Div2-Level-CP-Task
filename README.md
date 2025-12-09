@@ -2,7 +2,6 @@
 This project contains everything needed for a full competitive-programming problem, similar to what you’d see on Codeforces.
 
 The goal is to provide:
-
 A completely original, not-found-anywhere-else problem
 
 A clean problem statement
