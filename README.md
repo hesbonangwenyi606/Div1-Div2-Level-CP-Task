@@ -59,8 +59,8 @@ Their code and run links are saved under qwen/.
 If you want to learn how to design competitive programming problems,
 idea.md explains how the idea evolved
 solution.md explains the logic behind the answer
-
-🧪 Running Things
+ 
+ ###  Running Things
 
 Run the main solution:
 
